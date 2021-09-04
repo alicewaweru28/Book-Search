@@ -62,8 +62,7 @@ Book Search was refractored from an existing MERN app to utilize GraphQL impleme
   ![Heroku](https://img.shields.io/badge/Server-Heroku-inactive?style=for-the-badge)![MongoDB](https://img.shields.io/badge/Database-MongoDb-inactive?style=for-the-badge)![MongoDB Atlas](https://img.shields.io/badge/Cloud%20Database-MongoDB%20Atlas-inactive?style=for-the-badge) 
   
   ## Questions
-  Please reach out to me at [clairesylvester@clairecodes.dev](mailto:clairesylvester@clairecodes.dev?subject=[GitHub%book-search]%20Source%20Han%20Sans)
-
-
+  Please reach out to me at Alice Waweru 
+  
   ## License 
   This application uses the MIT license.  
